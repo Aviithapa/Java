@@ -1,0 +1,17 @@
+package Assignment;
+import javax.swing.*;
+import java.awt.*;
+public class Student extends JFrame{
+   JButton btnlogin;
+   JLabel namelbl,addresslbl,Semlbl;
+   JTextField nametxt,addresstxt,Semtxt;
+    
+   public Student() {
+	   btnlogin=new JButton("Save");
+	   
+	   namelbl=new JLabel("Name");
+	   addresslbl=new JLabel("Address");
+	   Semlbl=new JLabel("Sem")
+	   
+   }
+}

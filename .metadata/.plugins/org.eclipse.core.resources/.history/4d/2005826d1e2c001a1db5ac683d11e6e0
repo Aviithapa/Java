@@ -1,0 +1,29 @@
+package Login;
+import javax.swing.*; 
+public class Login {
+
+	Login(){
+		JFrame f= new JFrame("Login Page");
+		JLabel username=new JLabel("Username");
+		JLabel password=new JLabel("Password");
+		JTextField usernameTextBox=new JTextField();
+		JTextField passwordTextBox=new JTextField();
+		username.setBounds(200, 100, 200, 100);
+		usernameTextBox.setBounds(200,200 , 200, 30);
+		password.setBounds(200,250,200,100);
+		passwordTextBox.setBounds(200, 350,200,30);
+		JButton login=new JButton("Login");
+		login.setBounds(200, 450,200,30);
+		JButton Signin=new JButton("Signin");
+		login.setBounds(200,550,200,30);
+		f.add(username); f.add(password); f.add(usernameTextBox); f.add(passwordTextBox);f.add(login);  
+		f.setSize(600,600);  
+		f.setLayout(null);  
+		f.setVisible(true);
+	}
+	public static void main(String[] args) {
+		new Login();
+
+	}
+
+}

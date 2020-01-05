@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="login"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="btn1"/>
+			<item value="p1"/>
+			<item value="tf1"/>
+			<item value="l3"/>
+			<item value="l2"/>
+			<item value="gengp"/>
+			<item value="Arial"/>
+			<item value="tmno"/>
+			<item value="tname"/>
+			<item value="sub"/>
+			<item value="myarr"/>
+		</list>
+		<list key="replacehistory">
+			<item value="login"/>
+			<item value="PasswordField"/>
+			<item value="UserNameField"/>
+			<item value="Password"/>
+			<item value="UserName"/>
+			<item value="GenderGroup"/>
+			<item value="Paranormal"/>
+			<item value="ExamineeContactNumber"/>
+			<item value="ExamineeName"/>
+			<item value="Submit"/>
+			<item value="arr"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1070"/>
+		<item key="DIALOG_Y_ORIGIN" value="240"/>
+		<item key="DIALOG_WIDTH" value="336"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

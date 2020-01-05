@@ -1,0 +1,16 @@
+package StudentInformation;
+import java.util.Scanner;
+public class StudentInformation {
+
+	public static void main(String[] args)
+	{
+		Scanner info=new Scanner(System.in);
+		 System.out.println("Enter the Student Name:")
+		 String Name=info.next();
+	}
+}
+public class Information{
+	
+	
+ 
+}

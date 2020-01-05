@@ -1,0 +1,16 @@
+package week4;
+
+import java.util.Scanner;
+
+public class SearchGame {
+
+	public static void main(String[] args) {
+		int num;
+		System.out.println("Guess  a number between 1 to 20000");
+		Scanner input=new Scanner(System.in);
+		num=input.nextInt();
+		input.close();
+        
+	}
+
+}
